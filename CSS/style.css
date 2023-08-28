@@ -10,6 +10,7 @@ header {
     background-color: #4ea0ff;
     background-size: 38%;
     height: 100px;
+    margin-bottom: 1rem;
 }
 
 header img {
@@ -17,4 +18,41 @@ header img {
     bottom: 10px;
     left: 10px;
     width: 200px;
+}
+
+main {
+    padding: 10px;
+}
+
+section {
+    margin-bottom: 16px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.author {
+    color: #898989;
+    font-size: 16px;
+}
+
+.author span {
+    color: #33b0e7;
+}
+
+.small {
+    font-size: 12px;
+}
+
+figcaption {
+    font-size: 12px;
+}
+
+.text span {
+    background-color: yellow;
+}
+
+.list {
+    padding-left: 15px;
 }
